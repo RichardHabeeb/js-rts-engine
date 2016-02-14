@@ -2,8 +2,7 @@ var FrontEngine = require('./FrontEngine.js');
 
 /* Entry point */
 window.onload = function() {
-
-
-    var engine = new FrontEngine();
+    var container = $('#gameContainer');
+    var engine = new FrontEngine(container);
     engine.loop();
 };

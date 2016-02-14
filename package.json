@@ -1,0 +1,9 @@
+{
+  "name": "rts",
+  "version": "0.0.1",
+  "description": "RTS game engine",
+  "author": "Richard Habeeb <richard.habeeb@gmail.com>",
+  "main": "",
+  "dependencies": {
+  }
+}
